@@ -1,2 +1,2 @@
 # new-rep
-mew repository
+print("hello!world)
